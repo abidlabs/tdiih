@@ -14,7 +14,7 @@ export interface IslamicEvent {
 
 export interface EventsDataset {
   version: number;
-  /** Keyed by Hijri "month-day", e.g. "4-1". Each key maps to >=1 event. */
+  /** Keyed by Hijri "day-month", e.g. "17-9" = 17 Ramaḍān. Each key maps to >=1 event. */
   events: Record<string, IslamicEvent[]>;
 }
 
