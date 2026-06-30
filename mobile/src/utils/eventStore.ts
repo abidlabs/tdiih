@@ -1,11 +1,11 @@
-import * as FileSystem from "expo-file-system";
+import * as FileSystem from "expo-file-system/legacy";
 import { REMOTE_EVENTS_URL, REMOTE_FETCH_TIMEOUT_MS } from "@/config";
 import bundled from "@/data/events.json";
 
 export interface IslamicEvent {
   title: string;
-  year_ah?: number;
-  year_ce?: number;
+  year_ah?: number | null;
+  year_ce?: number | null;
   summary: string;
   image: string;
   credit?: string;
