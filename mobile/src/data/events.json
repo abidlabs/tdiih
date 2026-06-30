@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "events": {
+    "1-1": [
+      {
+        "title": "The Hijri calendar begins",
+        "year_ah": 1,
+        "year_ce": 622,
+        "summary": "Muḥarram 1 marks the start of the Islamic year, counted from the Hijrah — the Prophet Muhammad ﷺ and the early Muslims' migration from Mecca to Medina, the moment a scattered community became a society.",
+        "image": "https://images.unsplash.com/photo-1565023998836-962ff9d5f9be?w=1400&q=80&fit=crop",
+        "credit": "Photo by Martin Adams on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "10-1": [
+      {
+        "title": "ʿĀshūrāʾ and the Battle of Karbala",
+        "year_ah": 61,
+        "year_ce": 680,
+        "summary": "The 10th of Muḥarram is a day of fasting in the Prophetic tradition. In 61 AH it also became the day of Karbala, where Ḥusayn ibn ʿAlī, grandson of the Prophet ﷺ, and his companions were killed — a tragedy mourned across the Muslim world.",
+        "image": "https://images.unsplash.com/photo-1622489968558-9bf6f30dcb2a?w=1400&q=80&fit=crop",
+        "credit": "Photo by matt mr on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "2-3": [
+      {
+        "title": "The fall of Granada ends al-Andalus",
+        "year_ah": 897,
+        "year_ce": 1492,
+        "summary": "Sultan Muhammad XII surrendered Granada to the Catholic Monarchs, ending nearly eight centuries of Muslim rule in the Iberian Peninsula. The Alhambra's courtyards still carry the inscription: 'There is no victor but God.'",
+        "image": "https://images.unsplash.com/photo-1620677368158-32b1293fac36?w=1400&q=80&fit=crop",
+        "credit": "Photo by Jorge Fernández Salas on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "12-3": [
+      {
+        "title": "The birth of the Prophet Muhammad ﷺ",
+        "year_ah": 0,
+        "year_ce": 570,
+        "summary": "Widely observed as the Mawlid, the 12th of Rabīʿ al-Awwal commemorates the birth of the Prophet Muhammad ﷺ in Mecca in the Year of the Elephant — the beginning of a life that would reshape history.",
+        "image": "https://images.unsplash.com/photo-1692566123227-0f68f1b9dac6?w=1400&q=80&fit=crop",
+        "credit": "Photo by Sam Riz on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "1-4": [
+      {
+        "title": "Ṭāriq ibn Ziyād crosses to Gibraltar",
+        "year_ah": 92,
+        "year_ce": 711,
+        "summary": "Leading a Berber and Arab army across the strait, Ṭāriq ibn Ziyād landed at the great rock that still bears his name — Jabal Ṭāriq, 'Gibraltar.' His victory opened the door to centuries of Muslim civilization in al-Andalus.",
+        "image": "https://images.unsplash.com/photo-1762179178528-753cce16348e?w=1400&q=80&fit=crop",
+        "credit": "Photo by Wolfgang Hasselmann on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "24-4": [
+      {
+        "title": "The Battle of Ḥaṭṭīn",
+        "year_ah": 583,
+        "year_ce": 1187,
+        "summary": "Near the Horns of Ḥaṭṭīn in Galilee, Salāḥ al-Dīn (Saladin) decisively defeated the Crusader army, capturing the True Cross and most of the Kingdom of Jerusalem's forces — setting the stage for the liberation of Jerusalem months later.",
+        "image": "https://images.unsplash.com/photo-1629659343117-237c364e69ed?w=1400&q=80&fit=crop",
+        "credit": "Photo by Linus Mimietz on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "15-7": [
+      {
+        "title": "The Battle of Yarmūk",
+        "year_ah": 15,
+        "year_ce": 636,
+        "summary": "Over six days on the plains by the Yarmūk River, a Muslim army under Khālid ibn al-Walīd broke the Byzantine field force, ending Roman rule over Syria and reshaping the map of the Near East for a thousand years.",
+        "image": "https://images.unsplash.com/photo-1729636632461-70dbe16da0cb?w=1400&q=80&fit=crop",
+        "credit": "Photo by Mountassir Hafid on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "27-7": [
+      {
+        "title": "Al-Isrāʾ wa al-Miʿrāj",
+        "year_ah": null,
+        "year_ce": 621,
+        "summary": "The Night Journey: the Prophet Muhammad ﷺ was taken from Mecca to Jerusalem and then ascended through the heavens — the night on which the five daily prayers were ordained.",
+        "image": "https://images.unsplash.com/photo-1529079875474-0a66a1f176d0?w=1400&q=80&fit=crop",
+        "credit": "Photo by Toa Heftiba on Unsplash",
+        "credit_url": "https://unsplash.com"
+      },
+      {
+        "title": "Saladin liberates Jerusalem",
+        "year_ah": 583,
+        "year_ce": 1187,
+        "summary": "On the anniversary of the Night Journey, Salāḥ al-Dīn entered Jerusalem after 88 years of Crusader rule — and, famously, spared its inhabitants rather than repeating the massacre of 1099.",
+        "image": "https://images.unsplash.com/photo-1565486514269-c07271f0a794?w=1400&q=80&fit=crop",
+        "credit": "Photo by Snowscat on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "17-9": [
+      {
+        "title": "The Battle of Badr",
+        "year_ah": 2,
+        "year_ce": 624,
+        "summary": "Outnumbered roughly three to one, the Muslims of Medina won their first major battle against the Quraysh of Mecca. The 17th of Ramaḍān is remembered as a turning point for the young community.",
+        "image": "https://images.unsplash.com/photo-1654330351968-688120047293?w=1400&q=80&fit=crop",
+        "credit": "Photo by Yuheng Mei on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "20-9": [
+      {
+        "title": "The conquest of Mecca",
+        "year_ah": 8,
+        "year_ce": 630,
+        "summary": "The Prophet Muhammad ﷺ entered his birthplace almost without bloodshed, cleared the Kaaba of its idols, and declared a general amnesty for the people who had once driven him out — Fatḥ Makkah.",
+        "image": "https://images.unsplash.com/photo-1592326871020-04f58c1a52f3?w=1400&q=80&fit=crop",
+        "credit": "Photo by Ishan @seefromthesky on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "27-9": [
+      {
+        "title": "Laylat al-Qadr — the Night of Power",
+        "year_ah": null,
+        "year_ce": null,
+        "summary": "Most widely sought on the 27th of Ramaḍān, the Night of Power is described in the Qur'an as 'better than a thousand months' — the night the revelation of the Qur'an began.",
+        "image": "https://images.unsplash.com/photo-1577214407836-1f3a0604ecb2?w=1400&q=80&fit=crop",
+        "credit": "Photo by Rawan Yasser on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "1-10": [
+      {
+        "title": "ʿĪd al-Fiṭr",
+        "year_ah": null,
+        "year_ce": null,
+        "summary": "The first of Shawwāl marks the end of Ramaḍān's month-long fast — a day of communal prayer, charity (zakāt al-fiṭr), and celebration that has been kept since the time of the Prophet ﷺ in Medina.",
+        "image": "https://images.unsplash.com/photo-1622202210251-09d7df95a01a?w=1400&q=80&fit=crop",
+        "credit": "Photo by Yosef Futsum on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "9-12": [
+      {
+        "title": "The Day of ʿArafah",
+        "year_ah": null,
+        "year_ce": null,
+        "summary": "The pinnacle of the Hajj, when pilgrims gather on the plain of ʿArafah near Mecca in prayer. It was here, in 10 AH, that the Prophet ﷺ delivered his Farewell Sermon.",
+        "image": "https://images.unsplash.com/photo-1513072064285-240f87fa81e8?w=1400&q=80&fit=crop",
+        "credit": "Photo by Izuddin Helmi Adnan on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ],
+    "10-12": [
+      {
+        "title": "ʿĪd al-Aḍḥā — the Festival of Sacrifice",
+        "year_ah": null,
+        "year_ce": null,
+        "summary": "The greater of the two Eids commemorates Prophet Ibrāhīm's willingness to sacrifice his son, and coincides with the culmination of the Hajj. Muslims worldwide pray, sacrifice, and share meat with the poor.",
+        "image": "https://images.unsplash.com/photo-1693590614566-1d3ea9ef32f7?w=1400&q=80&fit=crop",
+        "credit": "Photo by Sam Riz on Unsplash",
+        "credit_url": "https://unsplash.com"
+      }
+    ]
+  }
+}

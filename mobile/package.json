@@ -1,0 +1,27 @@
+{
+  "name": "tdiih",
+  "version": "1.0.0",
+  "main": "expo/AppEntry",
+  "scripts": {
+    "start": "npx expo start",
+    "start:tunnel": "env -u CI npx expo start --host tunnel",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "expo-file-system": "~19.0.21",
+    "expo-image": "~3.0.0",
+    "expo-linear-gradient": "~15.0.0",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.0",
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}

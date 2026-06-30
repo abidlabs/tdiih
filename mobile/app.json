@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "This Day in Islamic History",
+    "slug": "tdiih",
+    "scheme": "tdiih",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#0b1020"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.abidlabs.tdiih",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b1020"
+      },
+      "package": "com.abidlabs.tdiih"
+    },
+    "extra": {},
+    "owner": "abidlabs"
+  }
+}
