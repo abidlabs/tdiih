@@ -1,11 +1,11 @@
-import * as FileSystem from "expo-file-system";
+import * as FileSystem from "expo-file-system/legacy";
 import { REMOTE_EVENTS_URL, REMOTE_FETCH_TIMEOUT_MS } from "@/config";
 import bundled from "@/data/events.json";
 
 export interface IslamicEvent {
   title: string;
-  year_ah?: number;
-  year_ce?: number;
+  year_ah?: number | null;
+  year_ce?: number | null;
   summary: string;
   image: string;
   credit?: string;
@@ -14,7 +14,7 @@ export interface IslamicEvent {
 
 export interface EventsDataset {
   version: number;
-  /** Keyed by Hijri "month-day", e.g. "4-1". Each key maps to >=1 event. */
+  /** Keyed by Hijri "day-month", e.g. "17-9" = 17 Ramaḍān. Each key maps to >=1 event. */
   events: Record<string, IslamicEvent[]>;
 }
 

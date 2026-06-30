@@ -74,9 +74,9 @@ export function gregorianToHijri(date: Date): HijriDate {
   return { year: yearH, month: monthH, day: dayH };
 }
 
-/** Key used to look events up in the dataset, e.g. "4-1" = Rabīʿ al-Thānī 1. */
+/** Key used to look events up in the dataset, e.g. "17-9" = 17 Ramaḍān (day-month). */
 export function hijriKey(h: HijriDate): string {
-  return `${h.month}-${h.day}`;
+  return `${h.day}-${h.month}`;
 }
 
 /** "1 Rabīʿ al-Thānī 1447 AH" */
